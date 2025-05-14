@@ -1,16 +1,12 @@
-# reminder_notification_app
+#  Reminder Notification App (Flutter)
 
-A new Flutter project.
+A simple Flutter app to create reminders and schedule notifications at specific times. When a notification is tapped, the app navigates to a detail screen displaying the reminder information.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+##  Features
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-  Input a reminder title and time
+-  Schedule a local notification at the selected time
+-  Receive a push notification
+-  Tap notification to view reminder details
